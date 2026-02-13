@@ -1,0 +1,63 @@
+# GitInsight – GitHub Portfolio Analyzer & Enhancer
+
+## 🚀 Overview
+GitInsight is a full-stack web application that analyzes GitHub profiles from a recruiter’s perspective. It generates a structured portfolio score and provides actionable insights to help developers improve their GitHub presence.
+
+## 🎯 Problem Statement
+Students often struggle to understand how recruiters evaluate GitHub profiles. Incomplete documentation, poor repository structure, and inconsistent activity reduce hiring visibility.
+
+GitInsight bridges this gap by objectively analyzing public repositories and highlighting improvement areas.
+
+## 🛠 Tech Stack
+- Frontend: React (Vite)
+- Backend: Django + Django REST Framework
+- API: GitHub REST API
+- Authentication: GitHub Personal Access Token
+- Styling: CSS
+
+## ✨ Features
+- GitHub Profile Analysis
+- Structured Portfolio Score (0–100)
+- Repository & Language Analysis
+- README Detection
+- Recruiter-Focused Suggestions
+- Rate Limit Handling
+- Secure Token Management via .env
+
+## 📊 Scoring Dimensions
+- Documentation Quality
+- Repository Structure
+- Language Diversity
+- Activity Signals
+- Project Visibility
+
+## 🔐 Setup Instructions
+
+### Backend Setup
+
+cd backend
+
+pip install -r requirements.txt
+
+create .env file:
+
+GITHUB_TOKEN=your_token_here
+
+python manage.py runserver
+
+### Frontend Setup
+
+cd GitInsight
+
+npm install
+
+npm run dev
+
+## 🎥 Demo Video
+(Add your screen recording link here)
+
+## 📌 Future Improvements
+- Commit frequency analysis
+- AI-based README evaluation
+- Contribution heatmap analysis
+- Portfolio improvement roadmap
