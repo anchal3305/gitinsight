@@ -53,6 +53,11 @@ npm install
 
 npm run dev
 
+## Screenshots
+<img width="1429" height="1066" alt="Screenshot 2026-02-13 210738" src="https://github.com/user-attachments/assets/5b90e85a-818f-4a11-8654-82772c8673c5" />
+
+<img width="1397" height="1069" alt="Screenshot 2026-02-13 210752" src="https://github.com/user-attachments/assets/41731ca6-4b7f-4bd5-8785-ac828267f3c0" />
+
 ## 🎥 Demo Video
 (Add your screen recording link here)
 
