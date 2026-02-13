@@ -34,15 +34,23 @@ GitInsight bridges this gap by objectively analyzing public repositories and hig
 ## 🔐 Setup Instructions
 
 ### Backend Setup
+
 cd backend
+
 pip install -r requirements.txt
+
 create .env file:
+
 GITHUB_TOKEN=your_token_here
+
 python manage.py runserver
 
 ### Frontend Setup
+
 cd GitInsight
+
 npm install
+
 npm run dev
 
 ## 🎥 Demo Video
