@@ -59,7 +59,8 @@ npm run dev
 <img width="1397" height="1069" alt="Screenshot 2026-02-13 210752" src="https://github.com/user-attachments/assets/41731ca6-4b7f-4bd5-8785-ac828267f3c0" />
 
 ## 🎥 Demo Video
-(Add your screen recording link here)
+Watch the live demo here:
+https://drive.google.com/file/d/1txlQ9jjWEIwmUmzfhaJrIqZcxJDxx6LO/view?usp=drive_link
 
 ## 📌 Future Improvements
 - Commit frequency analysis
