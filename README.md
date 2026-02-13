@@ -60,7 +60,7 @@ npm run dev
 
 ## 🎥 Demo Video
 Watch the live demo here:
-https://drive.google.com/file/d/1txlQ9jjWEIwmUmzfhaJrIqZcxJDxx6LO/view?usp=drive_link
+(https://drive.google.com/file/d/1txlQ9jjWEIwmUmzfhaJrIqZcxJDxx6LO/view?usp=drive_link)
 
 ## 📌 Future Improvements
 - Commit frequency analysis
